@@ -1,7 +1,6 @@
 /**
  * Jun 3, 2021
  */
-package com.interview;
 
 
 import java.util.ArrayList;
